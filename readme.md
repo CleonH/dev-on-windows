@@ -1,6 +1,15 @@
-# [See orlp's wiki.](https://github.com/orlp/dev-on-windows/wiki)
+#  [See orlp's wiki.](https://github.com/orlp/dev-on-windows/wiki)  C/CPP/ack/ag
 
-
+- GIT_FOR_WINDOWS :~~LF_CRLF~~
+- CMDER_MINI
+- Npp: ~~utf-8 BOM~~
+- VSCODE/Sublime
+- SourceCode
+```
+GiHub/GitLab/ownGitServer
+- 
+Zeal/OpenGROK+XMAPP/DashIOS
+```
 --------------------------------
 
 - PATH Editor
@@ -10,15 +19,11 @@
   VirtualBox
   VMWARE
 
-- CMDER_MINI
-- GIT_FOR_WINDOWS :~~LF_CRLF~~
-- VSCODE/Sublime
-- Npp: ~~utf-8,with/without BOM~~
 
 C/CPP:
 ```
 [CYWGIN/BUBUN]
-[MYSYS2]
+[MinGW-g++;MYSYS2]
 -DevCPP/CodeBlock/VsCode
 +VSSTUDIO 2010Express/Community
 +JetBrains CLION
@@ -46,7 +51,8 @@ Java
 
 Web-XAMPP
 ```
--Firefox/Chorme
+[Firefox/Chorme]
+-WebBroser_F11_dev_mode
 Web-JavaScript: 
 NODEJS:
 +JetBrains PhpStorm
