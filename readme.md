@@ -16,7 +16,7 @@ C/CPP:
 DevCPP/CodeBlock/VsCode
 VSSTUDIO 2010Express/Community
 CLION
-QT-SDK
+*QT-Creator-SDK + MySYS2 https://gist.github.com/bigworld12/c2f2ec25af416f72b6c5f3a9fb4df16f
 
 Python:
 anaconda
@@ -29,6 +29,7 @@ RStudio
 Web-XAMPP
 Web-JavaScript: Firefox/Chorme
 NODEJS:
+
 ----------------------------------
 
 
