@@ -3,6 +3,9 @@
 
 --------------------------------
 
+- PATH Editor
+  https://github.com/rix0rrr/WindowsPathEditor
+
 - Linux_in_VM
   VirtualBox
   VMWARE
