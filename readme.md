@@ -23,8 +23,8 @@ C/CPP:
 ```
 Python:
 ```
+[anaconda]
 -python_IDLE
-anaconda
 Spyder
 WinPython
 +JetBrains PyCharm(community free)
@@ -36,6 +36,7 @@ RStudio
 
 Java
 ```
+[JRE/OpenJDK]
 -DrJava
 +JetBrains IntelliJ IDEA
 ```
