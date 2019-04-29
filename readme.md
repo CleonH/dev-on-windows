@@ -63,3 +63,11 @@ NODEJS:
 **[LinuxKernel]**
 
 https://github.com/tinyclub/linux-0.11-lab
+
+
+
+win32os(x64CPU) linux-0.11-lab
+```
+Install amd64VM on Win32 with x64bit-vT-Enable-CPU
+Install Linux x64 Docker and x64VM
+```
